@@ -4,7 +4,7 @@ class oracle-xe (
   $listener_port = 1521,
   $ipv6 = false,
   $startup = 'y',
-  $password= 'inist01',
+  $password= 'pa$$w0rd'
   $iniface = undef,
 ) {
 
